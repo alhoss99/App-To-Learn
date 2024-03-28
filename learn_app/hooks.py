@@ -1,7 +1,7 @@
 app_name = "learn_app"
 app_title = "Learn App"
 app_publisher = "pico"
-app_description = "App to learn "
+app_description = "app to learn"
 app_email = "pico@gmail.com"
 app_license = "mit"
 # required_apps = []

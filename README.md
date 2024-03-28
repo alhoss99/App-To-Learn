@@ -1,6 +1,6 @@
 ## Learn App
 
-App to learn 
+app to learn
 
 #### License
 
